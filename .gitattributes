@@ -3,3 +3,5 @@ data/2015.csv.zip filter=lfs diff=lfs merge=lfs -text
 data/2016.csv.zip filter=lfs diff=lfs merge=lfs -text
 data/2017.csv.zip filter=lfs diff=lfs merge=lfs -text
 data/2018.csv.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
